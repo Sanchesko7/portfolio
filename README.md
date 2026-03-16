@@ -22,9 +22,9 @@
 ## 📚 Научный бэкграунд и публикации
 
 **Профили исследователя:**
-* [Scopus Author ID](57795394500)
-* [ORCID](0000-0003-3545-3635)
-* [РИНЦ Author ID](1230041)
+* [Scopus Author ID](https://www.scopus.com/inward/authorDetails.uri?authorID=57795394500&partnerID=5ESL7QZV&md5=ea4020372dee856e8fd11db405eca6c9)
+* [ORCID](https://orcid.org/0000-0003-3545-3635)
+* [РИНЦ Author ID](https://elibrary.ru/author_items.asp?authorid=1230041)
 
 **Избранные публикации:**
 * **[Решение задачи об электромагнитоупругом изгибе многосвязной плиты]** // *Прикладная механика и техническая физика (Scopus/WoS/ВАК/РИНЦ)*, 2022, doi: 10.15372/PMTF20220415. **[Переводная версия: Solving the problem of electro-magneto-elastic bending of a multiply connected plate]** // *Journal of Applied Mechanics and Technical Physics.*, 2022, doi: 10.1134/s0021894422040150. 
